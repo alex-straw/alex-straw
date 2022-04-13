@@ -1,5 +1,7 @@
 ## Overview
-  + BEng Engineering Design (University of Bristol) with a year working in research robotic (2017-2021)
+  + BEng Engineering Design (University of Bristol).  2017-2021:
+    + Dissertation title: 'Machine Vision for the Circular Economy of Smart-Phones'
+    + Year in industry working in research robotics
   + MSc Financial Technology with Data Science (2021-2022):
     + Statistics
     + AWS
